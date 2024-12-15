@@ -1,0 +1,46 @@
+baseURL: ""
+languageCode: en-us
+title: Product Debut
+theme: PaperMod
+
+params:
+  homeInfoParams:
+    Title: "Hello! Its me, Ferdous."
+    Content: Welcome to my humble space.
+  socialIcons:
+    - name: facebook
+      url: "www.facebook.com"
+    - name: linkedin
+      url: "www.linkedin.com"
+    - name: github
+      url: "www.github.com"
+
+  cover:
+    linkFullImages: true
+
+  ShowBreadCrumbs: true
+
+  ShowReadingTime: true
+
+  ShowShareButtons: true
+
+  ShowPostNavLinks: true
+
+
+
+
+menu:
+  main:
+    - identifier: categories
+      name: Categories
+      url: /categories/
+      weight: 10
+    - identifier: tags
+      name: Tags
+      url: /tags/
+      weight: 20
+    - identifier: Archives
+      name: Archives
+      url: /archives/
+      weight: 30
+        

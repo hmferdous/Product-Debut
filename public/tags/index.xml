@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Tags on Product Debut</title>
+    <link>/tags/</link>
+    <description>Recent content in Tags on Product Debut</description>
+    <generator>Hugo -- 0.139.0</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 15 Dec 2024 12:40:15 +0600</lastBuildDate>
+    <atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Lean</title>
+      <link>/tags/lean/</link>
+      <pubDate>Sun, 15 Dec 2024 12:40:15 +0600</pubDate>
+      <guid>/tags/lean/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Process</title>
+      <link>/tags/process/</link>
+      <pubDate>Sun, 15 Dec 2024 12:40:15 +0600</pubDate>
+      <guid>/tags/process/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Agile</title>
+      <link>/tags/agile/</link>
+      <pubDate>Sat, 14 Dec 2024 12:40:15 +0600</pubDate>
+      <guid>/tags/agile/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>SDLC</title>
+      <link>/tags/sdlc/</link>
+      <pubDate>Sat, 14 Dec 2024 12:40:15 +0600</pubDate>
+      <guid>/tags/sdlc/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>
