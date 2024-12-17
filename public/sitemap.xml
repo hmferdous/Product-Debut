@@ -2,39 +2,39 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>/categories/</loc>
+    <loc>//localhost:64394/categories/</loc>
     <lastmod>2024-12-15T12:40:15+06:00</lastmod>
   </url><url>
-    <loc>/tags/lean/</loc>
+    <loc>//localhost:64394/tags/lean/</loc>
     <lastmod>2024-12-15T12:40:15+06:00</lastmod>
   </url><url>
-    <loc>/posts/</loc>
+    <loc>//localhost:64394/posts/</loc>
     <lastmod>2024-12-15T12:40:15+06:00</lastmod>
   </url><url>
-    <loc>/tags/process/</loc>
+    <loc>//localhost:64394/tags/process/</loc>
     <lastmod>2024-12-15T12:40:15+06:00</lastmod>
   </url><url>
-    <loc>/categories/product/</loc>
+    <loc>//localhost:64394/categories/product/</loc>
     <lastmod>2024-12-15T12:40:15+06:00</lastmod>
   </url><url>
-    <loc>/</loc>
+    <loc>//localhost:64394/</loc>
     <lastmod>2024-12-15T12:40:15+06:00</lastmod>
   </url><url>
-    <loc>/posts/second/</loc>
+    <loc>//localhost:64394/posts/second/</loc>
     <lastmod>2024-12-15T12:40:15+06:00</lastmod>
   </url><url>
-    <loc>/tags/</loc>
+    <loc>//localhost:64394/tags/</loc>
     <lastmod>2024-12-15T12:40:15+06:00</lastmod>
   </url><url>
-    <loc>/tags/agile/</loc>
+    <loc>//localhost:64394/tags/agile/</loc>
     <lastmod>2024-12-14T12:40:15+06:00</lastmod>
   </url><url>
-    <loc>/posts/first/</loc>
+    <loc>//localhost:64394/posts/first/</loc>
     <lastmod>2024-12-14T12:40:15+06:00</lastmod>
   </url><url>
-    <loc>/tags/sdlc/</loc>
+    <loc>//localhost:64394/tags/sdlc/</loc>
     <lastmod>2024-12-14T12:40:15+06:00</lastmod>
   </url><url>
-    <loc>/archives/</loc>
+    <loc>//localhost:64394/archives/</loc>
   </url>
 </urlset>
