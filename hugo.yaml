@@ -9,11 +9,11 @@ params:
     Content: Welcome to my humble space.
   socialIcons:
     - name: facebook
-      url: "www.facebook.com"
+      url: "https://www.facebook.com/ferdous.pavel/"
     - name: linkedin
-      url: "www.linkedin.com"
+      url: "https://www.linkedin.com/in/h-m-ferdous-6a648a157/"
     - name: github
-      url: "www.github.com"
+      url: "https://github.com/hmferdous"
 
   cover:
     linkFullImages: false

@@ -1,1 +1,54 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/"><channel><title>Tags on Product Debut</title><link>https://hmferdous.github.io/tags/</link><description>Recent content in Tags on Product Debut</description><generator>Hugo -- 0.139.0</generator><language>en-us</language><lastBuildDate>Sun, 15 Dec 2024 12:40:15 +0600</lastBuildDate><atom:link href="https://hmferdous.github.io/tags/index.xml" rel="self" type="application/rss+xml"/><item><title>Lean</title><link>https://hmferdous.github.io/tags/lean/</link><pubDate>Sun, 15 Dec 2024 12:40:15 +0600</pubDate><guid>https://hmferdous.github.io/tags/lean/</guid><description/></item><item><title>Process</title><link>https://hmferdous.github.io/tags/process/</link><pubDate>Sun, 15 Dec 2024 12:40:15 +0600</pubDate><guid>https://hmferdous.github.io/tags/process/</guid><description/></item><item><title>Agile</title><link>https://hmferdous.github.io/tags/agile/</link><pubDate>Sat, 14 Dec 2024 12:40:15 +0600</pubDate><guid>https://hmferdous.github.io/tags/agile/</guid><description/></item><item><title>SDLC</title><link>https://hmferdous.github.io/tags/sdlc/</link><pubDate>Sat, 14 Dec 2024 12:40:15 +0600</pubDate><guid>https://hmferdous.github.io/tags/sdlc/</guid><description/></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Tags on Product Debut</title>
+    <link>http://localhost:1313/tags/</link>
+    <description>Recent content in Tags on Product Debut</description>
+    <generator>Hugo -- 0.139.0</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 15 Dec 2024 12:40:15 +0600</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Lean</title>
+      <link>http://localhost:1313/tags/lean/</link>
+      <pubDate>Sun, 15 Dec 2024 12:40:15 +0600</pubDate>
+      <guid>http://localhost:1313/tags/lean/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Process</title>
+      <link>http://localhost:1313/tags/process/</link>
+      <pubDate>Sun, 15 Dec 2024 12:40:15 +0600</pubDate>
+      <guid>http://localhost:1313/tags/process/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Agile</title>
+      <link>http://localhost:1313/tags/agile/</link>
+      <pubDate>Sat, 14 Dec 2024 12:40:15 +0600</pubDate>
+      <guid>http://localhost:1313/tags/agile/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>SDLC</title>
+      <link>http://localhost:1313/tags/sdlc/</link>
+      <pubDate>Sat, 14 Dec 2024 12:40:15 +0600</pubDate>
+      <guid>http://localhost:1313/tags/sdlc/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Health</title>
+      <link>http://localhost:1313/tags/health/</link>
+      <pubDate>Fri, 10 Jul 2020 14:23:00 +0600</pubDate>
+      <guid>http://localhost:1313/tags/health/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Welfare</title>
+      <link>http://localhost:1313/tags/welfare/</link>
+      <pubDate>Fri, 10 Jul 2020 14:23:00 +0600</pubDate>
+      <guid>http://localhost:1313/tags/welfare/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>

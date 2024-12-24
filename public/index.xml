@@ -1,9 +1,42 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/"><channel><title>Product Debut</title><link>https://hmferdous.github.io/</link><description>Recent content on Product Debut</description><generator>Hugo -- 0.139.0</generator><language>en-us</language><lastBuildDate>Sun, 15 Dec 2024 12:40:15 +0600</lastBuildDate><atom:link href="https://hmferdous.github.io/index.xml" rel="self" type="application/rss+xml"/><item><title>Second</title><link>https://hmferdous.github.io/posts/second/</link><pubDate>Sun, 15 Dec 2024 12:40:15 +0600</pubDate><guid>https://hmferdous.github.io/posts/second/</guid><description>&lt;h1 id="when-to-be-agile">When to be Agile?&lt;/h1>
-&lt;h2 id="deep-dive-into-the-agile-vs-waterfall-software-development-methodology">Deep dive into the Agile vs Waterfall Software Development Methodology&lt;/h2>
-&lt;blockquote>
-&lt;p>Why should we be agile?&lt;/p>
-&lt;/blockquote></description></item><item><title>First</title><link>https://hmferdous.github.io/posts/first/</link><pubDate>Sat, 14 Dec 2024 12:40:15 +0600</pubDate><guid>https://hmferdous.github.io/posts/first/</guid><description>&lt;h1 id="when-to-be-agile">When to be Agile?&lt;/h1>
-&lt;h2 id="deep-dive-into-the-agile-vs-waterfall-software-development-methodology">Deep dive into the Agile vs Waterfall Software Development Methodology&lt;/h2>
-&lt;blockquote>
-&lt;p>Why should we be agile?&lt;/p>
-&lt;/blockquote></description></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Product Debut</title>
+    <link>http://localhost:1313/</link>
+    <description>Recent content on Product Debut</description>
+    <generator>Hugo -- 0.139.0</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 15 Dec 2024 12:40:15 +0600</lastBuildDate>
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Second</title>
+      <link>http://localhost:1313/posts/second/</link>
+      <pubDate>Sun, 15 Dec 2024 12:40:15 +0600</pubDate>
+      <guid>http://localhost:1313/posts/second/</guid>
+      <description>&lt;h1 id=&#34;when-to-be-agile&#34;&gt;When to be Agile?&lt;/h1&gt;
+&lt;h2 id=&#34;deep-dive-into-the-agile-vs-waterfall-software-development-methodology&#34;&gt;Deep dive into the Agile vs Waterfall Software Development Methodology&lt;/h2&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Why should we be agile?&lt;/p&gt;
+&lt;/blockquote&gt;</description>
+    </item>
+    <item>
+      <title>First</title>
+      <link>http://localhost:1313/posts/first/</link>
+      <pubDate>Sat, 14 Dec 2024 12:40:15 +0600</pubDate>
+      <guid>http://localhost:1313/posts/first/</guid>
+      <description>&lt;h1 id=&#34;when-to-be-agile&#34;&gt;When to be Agile?&lt;/h1&gt;
+&lt;h2 id=&#34;deep-dive-into-the-agile-vs-waterfall-software-development-methodology&#34;&gt;Deep dive into the Agile vs Waterfall Software Development Methodology&lt;/h2&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Why should we be agile?&lt;/p&gt;
+&lt;/blockquote&gt;</description>
+    </item>
+    <item>
+      <title>Universal Health Coverage: A Bangladeshi Perspective</title>
+      <link>http://localhost:1313/posts/sanem/</link>
+      <pubDate>Fri, 10 Jul 2020 14:23:00 +0600</pubDate>
+      <guid>http://localhost:1313/posts/sanem/</guid>
+      <description>&lt;p&gt;The COVID-19 pandemic is the ultimate reality check for the Bangladeshi Healthcare Sector. While the country is entangled in fighting the pandemic for almost four months now, the fact that we were hilariously outmanned to keep up with this threat from the beginning, has never been clearer.
+According to a blog published in the World Bank Blogs in April 2020, individual healthcare systems and UHC of the countries are what will set the ultimate difference between each country’s response to this pandemic. At the 64th World Health Assembly in May 2011, Prime Minister Sheikh Hasina of the Government of Bangladesh announced that Bangladesh will achieve Universal Health Coverage (UHC) by 2032. While Bangladesh had an outstanding performance in achieving the Millennium Development Goal (MDG) of reducing maternal, infant, and under-five mortality rates between 1990 and 2015, in the tenth year since its commence, we are still far from achieving UHC under the 3rd Sustainable Development Goal (SDG). With an increasing percentage of out-of-pocket expenditure in total health expenditure every year, it is now time to ask ourselves the million-dollar question: “Is Bangladesh going to achieve UHC within 2032?”&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

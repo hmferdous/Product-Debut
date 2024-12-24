@@ -1,1 +1,26 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/"><channel><title>Categories on Product Debut</title><link>https://hmferdous.github.io/categories/</link><description>Recent content in Categories on Product Debut</description><generator>Hugo -- 0.139.0</generator><language>en-us</language><lastBuildDate>Sun, 15 Dec 2024 12:40:15 +0600</lastBuildDate><atom:link href="https://hmferdous.github.io/categories/index.xml" rel="self" type="application/rss+xml"/><item><title>Product</title><link>https://hmferdous.github.io/categories/product/</link><pubDate>Sun, 15 Dec 2024 12:40:15 +0600</pubDate><guid>https://hmferdous.github.io/categories/product/</guid><description/></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Categories on Product Debut</title>
+    <link>http://localhost:1313/categories/</link>
+    <description>Recent content in Categories on Product Debut</description>
+    <generator>Hugo -- 0.139.0</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 15 Dec 2024 12:40:15 +0600</lastBuildDate>
+    <atom:link href="http://localhost:1313/categories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Product</title>
+      <link>http://localhost:1313/categories/product/</link>
+      <pubDate>Sun, 15 Dec 2024 12:40:15 +0600</pubDate>
+      <guid>http://localhost:1313/categories/product/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Economics</title>
+      <link>http://localhost:1313/categories/economics/</link>
+      <pubDate>Fri, 10 Jul 2020 14:23:00 +0600</pubDate>
+      <guid>http://localhost:1313/categories/economics/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>
