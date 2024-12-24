@@ -16,7 +16,7 @@ params:
       url: "www.github.com"
 
   cover:
-    linkFullImages: true
+    linkFullImages: false
 
   ShowBreadCrumbs: true
 
