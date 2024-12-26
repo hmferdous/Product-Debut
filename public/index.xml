@@ -29,12 +29,40 @@
 &lt;p&gt;Waterfall is a sequential development methodology, characterized by distinct phases such as &lt;strong&gt;Requirements&lt;/strong&gt;, &lt;strong&gt;Design&lt;/strong&gt;, &lt;strong&gt;Implementation&lt;/strong&gt;, &lt;strong&gt;Testing&lt;/strong&gt;, and &lt;strong&gt;Maintenance&lt;/strong&gt;. Each phase must be completed before the next begins, and there’s little room for revisiting or revising earlier stages.&lt;/p&gt;</description>
     </item>
     <item>
+      <title>Scaling Products: The Role of Strategic Thinking in Growth</title>
+      <link>http://localhost:1313/posts/scaling/</link>
+      <pubDate>Sun, 02 Jun 2024 09:20:15 +0600</pubDate>
+      <guid>http://localhost:1313/posts/scaling/</guid>
+      <description>&lt;p&gt;As a product grows, scaling becomes one of the most challenging yet rewarding aspects of product management. A strong product strategy can guide this process. Here&amp;rsquo;s how I approach scaling products in the Fintech space:&lt;/p&gt;
+&lt;h3 id=&#34;building-for-scalability-from-day-one&#34;&gt;&lt;strong&gt;Building for Scalability from Day One&lt;/strong&gt;&lt;/h3&gt;
+&lt;p&gt;When launching a product, it&amp;rsquo;s easy to focus on immediate user needs, but I always keep scalability in mind. By working closely with engineers, I ensure that the product architecture can handle increasing user demand without compromising performance.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Why Empathy is My Best Tool</title>
+      <link>http://localhost:1313/posts/empathy/</link>
+      <pubDate>Sun, 02 Jun 2024 09:20:15 +0600</pubDate>
+      <guid>http://localhost:1313/posts/empathy/</guid>
+      <description>&lt;p&gt;As a product manager in the Fintech space, &lt;strong&gt;empathy&lt;/strong&gt; is one of the most powerful tools I’ve relied on to develop products that truly serve users. A product that isn’t designed with empathy for the user’s experience will fall short, regardless of its however many technical features. Here’s how I put empathy into practice:&lt;/p&gt;
+&lt;h3 id=&#34;user-research-the-foundation&#34;&gt;&lt;strong&gt;User Research: The Foundation&lt;/strong&gt;&lt;/h3&gt;
+&lt;p&gt;Before diving into the development of a product, I always ensure that we have a deep understanding of the &lt;strong&gt;user’s pain points&lt;/strong&gt;. This involves conducting user interviews, surveys, and gathering feedback from various touchpoints. By immersing myself in the &lt;strong&gt;user’s world&lt;/strong&gt;, I can identify what problems they are trying to solve and how to create a solution that fits seamlessly into their lives.&lt;/p&gt;</description>
+    </item>
+    <item>
       <title>The Art of Balancing UX and Business Acumen in Product Management</title>
       <link>http://localhost:1313/posts/third/</link>
       <pubDate>Tue, 12 Sep 2023 14:28:15 +0600</pubDate>
       <guid>http://localhost:1313/posts/third/</guid>
       <description>&lt;p&gt;&lt;em&gt;This is more of a note than an article, a culmination of what I am learning by scouring the internet.&lt;/em&gt;&lt;/p&gt;
 &lt;p&gt;As a product manager, one of the most critical skills I&amp;rsquo;ve developed over the last year is the ability to balance &lt;strong&gt;user experience (UX)&lt;/strong&gt; with &lt;strong&gt;business acumen&lt;/strong&gt;. Both elements are crucial for building products that not only meet user needs but also drive business growth. Here’s how I approach this balance:&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>The Basics of APIs for Product Managers</title>
+      <link>http://localhost:1313/posts/api/</link>
+      <pubDate>Wed, 19 Apr 2023 09:20:15 +0600</pubDate>
+      <guid>http://localhost:1313/posts/api/</guid>
+      <description>&lt;h1 id=&#34;the-basics-of-apis-for-product-managers&#34;&gt;The Basics of APIs for Product Managers&lt;/h1&gt;
+&lt;p&gt;As a &lt;strong&gt;Product Manager&lt;/strong&gt; in the fintech space, understanding how APIs work is crucial to developing seamless user experiences and efficient product integrations. APIs, or &lt;strong&gt;Application Programming Interfaces&lt;/strong&gt;, are key to enabling different software systems to communicate with each other. In this article, we’ll break down the basics of APIs and why they are essential for product managers, especially in fintech.&lt;/p&gt;
+&lt;h2 id=&#34;what-is-an-api&#34;&gt;What is an API?&lt;/h2&gt;
+&lt;p&gt;An API is a set of rules and protocols that allows one software application to interact with another. It defines the methods and data formats that applications can use to request and exchange data. Essentially, APIs enable different software systems to talk to each other without needing to understand their internal workings.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Worker Health Safety During COVID-19 in Bangladesh</title>
