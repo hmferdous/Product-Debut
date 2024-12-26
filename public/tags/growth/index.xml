@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Growth on Product Debut</title>
+    <link>http://localhost:1313/tags/growth/</link>
+    <description>Recent content in Growth on Product Debut</description>
+    <generator>Hugo -- 0.139.0</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 02 Jun 2024 09:20:15 +0600</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/growth/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Scaling Products: The Role of Strategic Thinking in Growth</title>
+      <link>http://localhost:1313/posts/scaling/</link>
+      <pubDate>Sun, 02 Jun 2024 09:20:15 +0600</pubDate>
+      <guid>http://localhost:1313/posts/scaling/</guid>
+      <description>&lt;p&gt;As a product grows, scaling becomes one of the most challenging yet rewarding aspects of product management. A strong product strategy can guide this process. Here&amp;rsquo;s how I approach scaling products in the Fintech space:&lt;/p&gt;
+&lt;h3 id=&#34;building-for-scalability-from-day-one&#34;&gt;&lt;strong&gt;Building for Scalability from Day One&lt;/strong&gt;&lt;/h3&gt;
+&lt;p&gt;When launching a product, it&amp;rsquo;s easy to focus on immediate user needs, but I always keep scalability in mind. By working closely with engineers, I ensure that the product architecture can handle increasing user demand without compromising performance.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
