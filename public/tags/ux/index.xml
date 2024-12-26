@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Ux on Product Debut</title>
+    <link>http://localhost:1313/tags/ux/</link>
+    <description>Recent content in Ux on Product Debut</description>
+    <generator>Hugo -- 0.139.0</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 12 Sep 2023 14:28:15 +0600</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/ux/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>The Art of Balancing UX and Business Acumen in Product Management</title>
+      <link>http://localhost:1313/posts/third/</link>
+      <pubDate>Tue, 12 Sep 2023 14:28:15 +0600</pubDate>
+      <guid>http://localhost:1313/posts/third/</guid>
+      <description>&lt;p&gt;&lt;em&gt;This is more of a note than an article, a culmination of what I am learning by scouring the internet.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;As a product manager, one of the most critical skills I&amp;rsquo;ve developed over the last year is the ability to balance &lt;strong&gt;user experience (UX)&lt;/strong&gt; with &lt;strong&gt;business acumen&lt;/strong&gt;. Both elements are crucial for building products that not only meet user needs but also drive business growth. Here’s how I approach this balance:&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

@@ -9,34 +9,59 @@
     <lastBuildDate>Sun, 15 Dec 2024 12:40:15 +0600</lastBuildDate>
     <atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Second</title>
+      <title>Fintech and the Foundational Knowledge of Digital Financial Transactions</title>
       <link>http://localhost:1313/posts/second/</link>
       <pubDate>Sun, 15 Dec 2024 12:40:15 +0600</pubDate>
       <guid>http://localhost:1313/posts/second/</guid>
-      <description>&lt;h1 id=&#34;when-to-be-agile&#34;&gt;When to be Agile?&lt;/h1&gt;
-&lt;h2 id=&#34;deep-dive-into-the-agile-vs-waterfall-software-development-methodology&#34;&gt;Deep dive into the Agile vs Waterfall Software Development Methodology&lt;/h2&gt;
-&lt;blockquote&gt;
-&lt;p&gt;Why should we be agile?&lt;/p&gt;
-&lt;/blockquote&gt;</description>
+      <description>&lt;p&gt;&lt;em&gt;By a Fintech Product Manager with 3 Years of Experience in handling HIPPOs and ZEBRAs everyday.&lt;/em&gt;
+&lt;em&gt;This is more of a note than an article, a culmination of what I learned by scouring the internet. You WILL find copied material here.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;As a Product Manager in the ever-evolving Fintech space, understanding the core principles of &lt;strong&gt;digital financial transactions&lt;/strong&gt; is crucial to delivering secure, seamless, and scalable products. With the rise of mobile wallets, digital currencies, and online payment systems, the landscape of financial services is rapidly changing. However, to build products that effectively meet market demands, one must first understand the foundational knowledge behind digital financial transactions. In this article, I’ll share my insights, enriched by industry best practices and expert opinions, into the core elements that shape digital financial transactions in Fintech.&lt;/p&gt;</description>
     </item>
     <item>
-      <title>First</title>
+      <title>Deep Dive into Agile vs. Waterfall Software Development Methodology</title>
       <link>http://localhost:1313/posts/first/</link>
       <pubDate>Sat, 14 Dec 2024 12:40:15 +0600</pubDate>
       <guid>http://localhost:1313/posts/first/</guid>
-      <description>&lt;h1 id=&#34;when-to-be-agile&#34;&gt;When to be Agile?&lt;/h1&gt;
-&lt;h2 id=&#34;deep-dive-into-the-agile-vs-waterfall-software-development-methodology&#34;&gt;Deep dive into the Agile vs Waterfall Software Development Methodology&lt;/h2&gt;
-&lt;blockquote&gt;
-&lt;p&gt;Why should we be agile?&lt;/p&gt;
-&lt;/blockquote&gt;</description>
+      <description>&lt;p&gt;In the fast-paced world of Fintech, where innovation and user experience drive success, choosing the right development methodology can make or break a project. Over the past three years, as a budding Product Manager, I have navigated the complex waters of software development, experimenting with both Agile and Waterfall methodologies. Here, I share my insights, rooted in practical experience and enriched by the wisdom of industry leaders.&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;understanding-the-basics&#34;&gt;&lt;strong&gt;Understanding the Basics&lt;/strong&gt;&lt;/h2&gt;
+&lt;h3 id=&#34;waterfall-the-traditional-approach&#34;&gt;&lt;strong&gt;Waterfall: The Traditional Approach&lt;/strong&gt;&lt;/h3&gt;
+&lt;p&gt;Waterfall is a sequential development methodology, characterized by distinct phases such as &lt;strong&gt;Requirements&lt;/strong&gt;, &lt;strong&gt;Design&lt;/strong&gt;, &lt;strong&gt;Implementation&lt;/strong&gt;, &lt;strong&gt;Testing&lt;/strong&gt;, and &lt;strong&gt;Maintenance&lt;/strong&gt;. Each phase must be completed before the next begins, and there’s little room for revisiting or revising earlier stages.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>The Art of Balancing UX and Business Acumen in Product Management</title>
+      <link>http://localhost:1313/posts/third/</link>
+      <pubDate>Tue, 12 Sep 2023 14:28:15 +0600</pubDate>
+      <guid>http://localhost:1313/posts/third/</guid>
+      <description>&lt;p&gt;&lt;em&gt;This is more of a note than an article, a culmination of what I am learning by scouring the internet.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;As a product manager, one of the most critical skills I&amp;rsquo;ve developed over the last year is the ability to balance &lt;strong&gt;user experience (UX)&lt;/strong&gt; with &lt;strong&gt;business acumen&lt;/strong&gt;. Both elements are crucial for building products that not only meet user needs but also drive business growth. Here’s how I approach this balance:&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Worker Health Safety During COVID-19 in Bangladesh</title>
+      <link>http://localhost:1313/posts/rmg/</link>
+      <pubDate>Sun, 13 Sep 2020 12:40:15 +0600</pubDate>
+      <guid>http://localhost:1313/posts/rmg/</guid>
+      <description>&lt;p&gt;Imagine losing a country’s chief economic driving force, built up over a span of four decades, in just three months. This is what the COVID-19 pandemic was going to do to Bangladesh, or at least threatening to, when USD 3.18 Billion worth of orders were canceled in March 2020.&lt;/p&gt;
+&lt;p&gt;The Readymade Garments industry has been the country’s backbone for some time now. The sector alone accounts for 84% of the country’s export earnings. This kind of massive overdependence on only one industry has threatened to cripple Bangladesh’s economy once before in 2013 when the structural failure of a local factory in Dhaka resulted in the tragic loss of 1,134 lives. The government and industry regulators were under a lot of pressure to make sure that the ongoing pandemic does not result in another parade of lost lives like that again. The wide range of panic and confusion among both the government and industry stakeholders regarding whether to reopen the factories was both understandable and justifiable.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Universal Health Coverage: A Bangladeshi Perspective</title>
       <link>http://localhost:1313/posts/sanem/</link>
       <pubDate>Fri, 10 Jul 2020 14:23:00 +0600</pubDate>
       <guid>http://localhost:1313/posts/sanem/</guid>
-      <description>&lt;p&gt;The COVID-19 pandemic is the ultimate reality check for the Bangladeshi Healthcare Sector. While the country is entangled in fighting the pandemic for almost four months now, the fact that we were hilariously outmanned to keep up with this threat from the beginning, has never been clearer.
-According to a blog published in the World Bank Blogs in April 2020, individual healthcare systems and UHC of the countries are what will set the ultimate difference between each country’s response to this pandemic. At the 64th World Health Assembly in May 2011, Prime Minister Sheikh Hasina of the Government of Bangladesh announced that Bangladesh will achieve Universal Health Coverage (UHC) by 2032. While Bangladesh had an outstanding performance in achieving the Millennium Development Goal (MDG) of reducing maternal, infant, and under-five mortality rates between 1990 and 2015, in the tenth year since its commence, we are still far from achieving UHC under the 3rd Sustainable Development Goal (SDG). With an increasing percentage of out-of-pocket expenditure in total health expenditure every year, it is now time to ask ourselves the million-dollar question: “Is Bangladesh going to achieve UHC within 2032?”&lt;/p&gt;</description>
+      <description>&lt;h1 id=&#34;premise&#34;&gt;Premise&lt;/h1&gt;
+&lt;p&gt;The COVID-19 pandemic is the ultimate reality check for the Bangladeshi Healthcare Sector.
+While the country is entangled in fighting the pandemic for almost four months now, the fact that we were hilariously
+outmanned to keep up with this threat from the beginning, has never been clearer.
+According to a blog published in the World Bank Blogs in April 2020, individual healthcare systems and UHC of the countries
+are what will set the ultimate difference between each country&amp;rsquo;s response to this pandemic.
+At the 64th World Health Assembly in May 2011, Prime Minister Sheikh Hasina of the Government of Bangladesh announced that
+Bangladesh will achieve Universal Health Coverage (UHC) by 2032.
+While Bangladesh had an outstanding performance in achieving the Millennium Development Goal (MDG) of
+reducing maternal, infant, and under-five mortality rates between 1990 and 2015, in the tenth year since its commence,
+we are still far from achieving UHC under the 3rd Sustainable Development Goal (SDG).
+With an increasing percentage of out-of-pocket expenditure in total health expenditure every year,
+it is now time to ask ourselves the million-dollar question: “Is Bangladesh going to achieve UHC within 2032?”&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
