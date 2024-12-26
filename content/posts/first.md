@@ -1,6 +1,6 @@
 ---
 title: "Deep Dive into Agile vs. Waterfall Software Development Methodology"
-date: '2024-12-14T12:40:15+06:00'
+date: '2023-08-11T12:40:15+06:00'
 draft: false
 
 tags: ["agile", "SDLC"]

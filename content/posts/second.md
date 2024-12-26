@@ -1,6 +1,6 @@
 ---
 title: "Fintech and the Foundational Knowledge of Digital Financial Transactions"
-date: '2024-12-15T12:40:15+06:00'
+date: '2022-12-15T12:40:15+06:00'
 draft: false
 tags: ["process", "lean"]
 categories: ["product"]
