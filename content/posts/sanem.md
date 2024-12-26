@@ -35,7 +35,7 @@ More often than not, the people of Bangladesh are forced to make a trade-off bet
 ## Economic and Social Stability
 Universal Health Coverage (UHC) can help Bangladesh build a much-needed platform for sustainable and inclusive growth. If we look at Japan, who celebrated their 50 years of achieving UHC in 2011, we will see that their commitment to UHC played a definitive role in the country’s economic and social recovery in the post–World War II period, when the country was in shambles. Their commitment also helped the country to develop a vibrant middle class and secure social stability. UHC in Bangladesh will help us ensure that the benefits of the ongoing economic growth are being shared equitably across the population.
 The financial protection that UHC will provide will benefit the country’s economy considering the fact that it will prevent the backlash received from the increasing out-of-pocket expenditure in the health sector. Bangladesh has the highest out-of-pocket (OOP) expenditure, 74%, among the South Asian countries. 
-![Out of Pocket Expenditure](/Expenditure.PNG)
+![Out of Pocket Expenditure](/Expenditure.png)
 *Percentage of Out of Pocket Expenditure for South Asian Countries*
 
 ## Equity and Sustainability
@@ -60,7 +60,7 @@ Another barrier that the policy-makers are likely to face is the perpetual knowl
 One of the main challenges of implementing UHC is identifying and establishing treatment facilities in the hard-to-reach areas of our country. But an undermanned healthcare system that is too focused on the cities obstructs the flow of services to these areas. Lack of proper Human Resource Monitoring and Development, understaffed and under-equipped facilities, corruption in virtually every sector of the public health, and the perpetual lack of accountability have riddled our healthcare system with weaknesses.
 The problem of the seemingly weak infrastructure of our healthcare is further exacerbated by the lack of government funding every year. Bangladesh has a large number of ethnic groups and minorities, thanks to its diverse nature and origin, which requires the healthcare system to have a flexible budget to ensure proper services in all areas such as the hill tracts, the tea gardens, border areas, etc. But the persistent lack of Government Budget allocation is a major hindrance in this regard.
 
-![Heath Budget](/budget.JPG)
+![Heath Budget](/budget.jpg)
 *Bangladesh Health Budget as % of Total Budget (Source: UNDP)*
 
 ## Challenges in Policy-Making

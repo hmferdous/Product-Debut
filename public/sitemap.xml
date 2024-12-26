@@ -5,6 +5,9 @@
     <loc>http://localhost:1313/categories/</loc>
     <lastmod>2024-12-15T12:40:15+06:00</lastmod>
   </url><url>
+    <loc>http://localhost:1313/posts/second/</loc>
+    <lastmod>2024-12-15T12:40:15+06:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/tags/lean/</loc>
     <lastmod>2024-12-15T12:40:15+06:00</lastmod>
   </url><url>
@@ -20,9 +23,6 @@
     <loc>http://localhost:1313/</loc>
     <lastmod>2024-12-15T12:40:15+06:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/second/</loc>
-    <lastmod>2024-12-15T12:40:15+06:00</lastmod>
-  </url><url>
     <loc>http://localhost:1313/tags/</loc>
     <lastmod>2024-12-15T12:40:15+06:00</lastmod>
   </url><url>
@@ -35,10 +35,34 @@
     <loc>http://localhost:1313/tags/sdlc/</loc>
     <lastmod>2024-12-14T12:40:15+06:00</lastmod>
   </url><url>
+    <loc>http://localhost:1313/posts/third/</loc>
+    <lastmod>2023-09-12T14:28:15+06:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/user/</loc>
+    <lastmod>2023-09-12T14:28:15+06:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/ux/</loc>
+    <lastmod>2023-09-12T14:28:15+06:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/covid-19/</loc>
+    <lastmod>2020-09-13T12:40:15+06:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/categories/economics/</loc>
-    <lastmod>2020-07-10T14:23:00+06:00</lastmod>
+    <lastmod>2020-09-13T12:40:15+06:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/export/</loc>
+    <lastmod>2020-09-13T12:40:15+06:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/rmg/</loc>
+    <lastmod>2020-09-13T12:40:15+06:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/posts/rmg/</loc>
+    <lastmod>2020-09-13T12:40:15+06:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/health/</loc>
+    <lastmod>2020-07-10T14:23:00+06:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/categories/policy/</loc>
     <lastmod>2020-07-10T14:23:00+06:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/posts/sanem/</loc>

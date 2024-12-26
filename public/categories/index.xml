@@ -18,8 +18,15 @@
     <item>
       <title>Economics</title>
       <link>http://localhost:1313/categories/economics/</link>
-      <pubDate>Fri, 10 Jul 2020 14:23:00 +0600</pubDate>
+      <pubDate>Sun, 13 Sep 2020 12:40:15 +0600</pubDate>
       <guid>http://localhost:1313/categories/economics/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Policy</title>
+      <link>http://localhost:1313/categories/policy/</link>
+      <pubDate>Fri, 10 Jul 2020 14:23:00 +0600</pubDate>
+      <guid>http://localhost:1313/categories/policy/</guid>
       <description></description>
     </item>
   </channel>

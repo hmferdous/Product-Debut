@@ -9,15 +9,13 @@
     <lastBuildDate>Sun, 15 Dec 2024 12:40:15 +0600</lastBuildDate>
     <atom:link href="http://localhost:1313/tags/lean/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Second</title>
+      <title>Fintech and the Foundational Knowledge of Digital Financial Transactions</title>
       <link>http://localhost:1313/posts/second/</link>
       <pubDate>Sun, 15 Dec 2024 12:40:15 +0600</pubDate>
       <guid>http://localhost:1313/posts/second/</guid>
-      <description>&lt;h1 id=&#34;when-to-be-agile&#34;&gt;When to be Agile?&lt;/h1&gt;
-&lt;h2 id=&#34;deep-dive-into-the-agile-vs-waterfall-software-development-methodology&#34;&gt;Deep dive into the Agile vs Waterfall Software Development Methodology&lt;/h2&gt;
-&lt;blockquote&gt;
-&lt;p&gt;Why should we be agile?&lt;/p&gt;
-&lt;/blockquote&gt;</description>
+      <description>&lt;p&gt;&lt;em&gt;By a Fintech Product Manager with 3 Years of Experience in handling HIPPOs and ZEBRAs everyday.&lt;/em&gt;
+&lt;em&gt;This is more of a note than an article, a culmination of what I learned by scouring the internet. You WILL find copied material here.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;As a Product Manager in the ever-evolving Fintech space, understanding the core principles of &lt;strong&gt;digital financial transactions&lt;/strong&gt; is crucial to delivering secure, seamless, and scalable products. With the rise of mobile wallets, digital currencies, and online payment systems, the landscape of financial services is rapidly changing. However, to build products that effectively meet market demands, one must first understand the foundational knowledge behind digital financial transactions. In this article, I’ll share my insights, enriched by industry best practices and expert opinions, into the core elements that shape digital financial transactions in Fintech.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

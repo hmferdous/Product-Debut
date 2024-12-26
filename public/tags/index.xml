@@ -37,6 +37,41 @@
       <description></description>
     </item>
     <item>
+      <title>User</title>
+      <link>http://localhost:1313/tags/user/</link>
+      <pubDate>Tue, 12 Sep 2023 14:28:15 +0600</pubDate>
+      <guid>http://localhost:1313/tags/user/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Ux</title>
+      <link>http://localhost:1313/tags/ux/</link>
+      <pubDate>Tue, 12 Sep 2023 14:28:15 +0600</pubDate>
+      <guid>http://localhost:1313/tags/ux/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>COVID-19</title>
+      <link>http://localhost:1313/tags/covid-19/</link>
+      <pubDate>Sun, 13 Sep 2020 12:40:15 +0600</pubDate>
+      <guid>http://localhost:1313/tags/covid-19/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Export</title>
+      <link>http://localhost:1313/tags/export/</link>
+      <pubDate>Sun, 13 Sep 2020 12:40:15 +0600</pubDate>
+      <guid>http://localhost:1313/tags/export/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>RMG</title>
+      <link>http://localhost:1313/tags/rmg/</link>
+      <pubDate>Sun, 13 Sep 2020 12:40:15 +0600</pubDate>
+      <guid>http://localhost:1313/tags/rmg/</guid>
+      <description></description>
+    </item>
+    <item>
       <title>Health</title>
       <link>http://localhost:1313/tags/health/</link>
       <pubDate>Fri, 10 Jul 2020 14:23:00 +0600</pubDate>

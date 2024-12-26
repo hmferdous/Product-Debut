@@ -9,15 +9,15 @@
     <lastBuildDate>Sat, 14 Dec 2024 12:40:15 +0600</lastBuildDate>
     <atom:link href="http://localhost:1313/tags/agile/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>First</title>
+      <title>Deep Dive into Agile vs. Waterfall Software Development Methodology</title>
       <link>http://localhost:1313/posts/first/</link>
       <pubDate>Sat, 14 Dec 2024 12:40:15 +0600</pubDate>
       <guid>http://localhost:1313/posts/first/</guid>
-      <description>&lt;h1 id=&#34;when-to-be-agile&#34;&gt;When to be Agile?&lt;/h1&gt;
-&lt;h2 id=&#34;deep-dive-into-the-agile-vs-waterfall-software-development-methodology&#34;&gt;Deep dive into the Agile vs Waterfall Software Development Methodology&lt;/h2&gt;
-&lt;blockquote&gt;
-&lt;p&gt;Why should we be agile?&lt;/p&gt;
-&lt;/blockquote&gt;</description>
+      <description>&lt;p&gt;In the fast-paced world of Fintech, where innovation and user experience drive success, choosing the right development methodology can make or break a project. Over the past three years, as a budding Product Manager, I have navigated the complex waters of software development, experimenting with both Agile and Waterfall methodologies. Here, I share my insights, rooted in practical experience and enriched by the wisdom of industry leaders.&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;understanding-the-basics&#34;&gt;&lt;strong&gt;Understanding the Basics&lt;/strong&gt;&lt;/h2&gt;
+&lt;h3 id=&#34;waterfall-the-traditional-approach&#34;&gt;&lt;strong&gt;Waterfall: The Traditional Approach&lt;/strong&gt;&lt;/h3&gt;
+&lt;p&gt;Waterfall is a sequential development methodology, characterized by distinct phases such as &lt;strong&gt;Requirements&lt;/strong&gt;, &lt;strong&gt;Design&lt;/strong&gt;, &lt;strong&gt;Implementation&lt;/strong&gt;, &lt;strong&gt;Testing&lt;/strong&gt;, and &lt;strong&gt;Maintenance&lt;/strong&gt;. Each phase must be completed before the next begins, and there’s little room for revisiting or revising earlier stages.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
