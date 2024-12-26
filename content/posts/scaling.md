@@ -17,4 +17,4 @@ For example, if we’re launching a new payment feature, I ensure that the back-
 ### **Iterating for Growth**  
 Once a product is live, continuous iteration is key to scaling. This means analyzing user feedback, monitoring performance metrics, and making improvements that help the product serve a larger audience. Whether it’s improving onboarding flows or streamlining payment processes, these incremental changes compound over time to drive growth.
 
-> “Scalability isn’t just about handling traffic; it’s about ensuring the product evolves to meet growing needs,”
+> “Scalability isn’t just about handling traffic; it’s about ensuring the product evolves to meet growing needs”

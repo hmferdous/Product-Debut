@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>System on Product Debut</title>
+    <link>http://localhost:1313/tags/system/</link>
+    <description>Recent content in System on Product Debut</description>
+    <generator>Hugo -- 0.139.0</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 19 Apr 2023 09:20:15 +0600</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/system/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>The Basics of APIs for Product Managers</title>
+      <link>http://localhost:1313/posts/api/</link>
+      <pubDate>Wed, 19 Apr 2023 09:20:15 +0600</pubDate>
+      <guid>http://localhost:1313/posts/api/</guid>
+      <description>&lt;h1 id=&#34;the-basics-of-apis-for-product-managers&#34;&gt;The Basics of APIs for Product Managers&lt;/h1&gt;
+&lt;p&gt;As a &lt;strong&gt;Product Manager&lt;/strong&gt; in the fintech space, understanding how APIs work is crucial to developing seamless user experiences and efficient product integrations. APIs, or &lt;strong&gt;Application Programming Interfaces&lt;/strong&gt;, are key to enabling different software systems to communicate with each other. In this article, we’ll break down the basics of APIs and why they are essential for product managers, especially in fintech.&lt;/p&gt;
+&lt;h2 id=&#34;what-is-an-api&#34;&gt;What is an API?&lt;/h2&gt;
+&lt;p&gt;An API is a set of rules and protocols that allows one software application to interact with another. It defines the methods and data formats that applications can use to request and exchange data. Essentially, APIs enable different software systems to talk to each other without needing to understand their internal workings.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

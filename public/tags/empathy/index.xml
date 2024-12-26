@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Empathy on Product Debut</title>
+    <link>http://localhost:1313/tags/empathy/</link>
+    <description>Recent content in Empathy on Product Debut</description>
+    <generator>Hugo -- 0.139.0</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 02 Jun 2024 09:20:15 +0600</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/empathy/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Why Empathy is My Best Tool</title>
+      <link>http://localhost:1313/posts/empathy/</link>
+      <pubDate>Sun, 02 Jun 2024 09:20:15 +0600</pubDate>
+      <guid>http://localhost:1313/posts/empathy/</guid>
+      <description>&lt;p&gt;As a product manager in the Fintech space, &lt;strong&gt;empathy&lt;/strong&gt; is one of the most powerful tools I’ve relied on to develop products that truly serve users. A product that isn’t designed with empathy for the user’s experience will fall short, regardless of its however many technical features. Here’s how I put empathy into practice:&lt;/p&gt;
+&lt;h3 id=&#34;user-research-the-foundation&#34;&gt;&lt;strong&gt;User Research: The Foundation&lt;/strong&gt;&lt;/h3&gt;
+&lt;p&gt;Before diving into the development of a product, I always ensure that we have a deep understanding of the &lt;strong&gt;user’s pain points&lt;/strong&gt;. This involves conducting user interviews, surveys, and gathering feedback from various touchpoints. By immersing myself in the &lt;strong&gt;user’s world&lt;/strong&gt;, I can identify what problems they are trying to solve and how to create a solution that fits seamlessly into their lives.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
