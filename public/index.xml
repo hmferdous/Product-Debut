@@ -99,6 +99,14 @@
 &lt;p&gt;Waterfall is a sequential development methodology, characterized by distinct phases such as &lt;strong&gt;Requirements&lt;/strong&gt;, &lt;strong&gt;Design&lt;/strong&gt;, &lt;strong&gt;Implementation&lt;/strong&gt;, &lt;strong&gt;Testing&lt;/strong&gt;, and &lt;strong&gt;Maintenance&lt;/strong&gt;. Each phase must be completed before the next begins, and there’s little room for revisiting or revising earlier stages.&lt;/p&gt;</description>
     </item>
     <item>
+      <title>Challenges of Product Managers Coming from a Business Background</title>
+      <link>http://localhost:1313/posts/challenges/</link>
+      <pubDate>Wed, 19 Apr 2023 09:20:15 +0600</pubDate>
+      <guid>http://localhost:1313/posts/challenges/</guid>
+      <description>&lt;p&gt;Product management is a multidisciplinary role, requiring a blend of technical, strategic, and interpersonal skills. For product managers coming from a *&lt;em&gt;business background&lt;/em&gt; like me, the transition into this complex role can be rewarding yet challenging. While our strengths in strategy and stakeholder management are invaluable, navigating the technical aspects of the role can pose unique hurdles.&lt;/p&gt;
+&lt;p&gt;Here’s a closer look at the challenges I faced as a business-background product managers and how I overcame them.&lt;/p&gt;</description>
+    </item>
+    <item>
       <title>The Basics of APIs for Product Managers</title>
       <link>http://localhost:1313/posts/api/</link>
       <pubDate>Wed, 19 Apr 2023 09:20:15 +0600</pubDate>
