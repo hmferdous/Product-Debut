@@ -6,27 +6,78 @@
     <description>Recent content in Product on Product Debut</description>
     <generator>Hugo -- 0.139.0</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 15 Dec 2024 12:40:15 +0600</lastBuildDate>
+    <lastBuildDate>Thu, 05 Dec 2024 10:16:15 +0600</lastBuildDate>
     <atom:link href="http://localhost:1313/categories/product/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Fintech and the Foundational Knowledge of Digital Financial Transactions</title>
-      <link>http://localhost:1313/posts/second/</link>
-      <pubDate>Sun, 15 Dec 2024 12:40:15 +0600</pubDate>
-      <guid>http://localhost:1313/posts/second/</guid>
-      <description>&lt;p&gt;&lt;em&gt;By a Fintech Product Manager with 3 Years of Experience in handling HIPPOs and ZEBRAs everyday.&lt;/em&gt;
-&lt;em&gt;This is more of a note than an article, a culmination of what I learned by scouring the internet. You WILL find copied material here.&lt;/em&gt;&lt;/p&gt;
-&lt;p&gt;As a Product Manager in the ever-evolving Fintech space, understanding the core principles of &lt;strong&gt;digital financial transactions&lt;/strong&gt; is crucial to delivering secure, seamless, and scalable products. With the rise of mobile wallets, digital currencies, and online payment systems, the landscape of financial services is rapidly changing. However, to build products that effectively meet market demands, one must first understand the foundational knowledge behind digital financial transactions. In this article, I’ll share my insights, enriched by industry best practices and expert opinions, into the core elements that shape digital financial transactions in Fintech.&lt;/p&gt;</description>
+      <title>Newsletters I Follow: My Top 5</title>
+      <link>http://localhost:1313/posts/newsletter/</link>
+      <pubDate>Thu, 05 Dec 2024 10:16:15 +0600</pubDate>
+      <guid>http://localhost:1313/posts/newsletter/</guid>
+      <description>&lt;p&gt;As a Product Manager in the fintech space, staying updated with industry trends, best practices, and the latest innovations is crucial. One of the best ways to do this is by subscribing to newsletters. Below is a list of newsletters I follow to keep my knowledge sharp and my strategies current. Each one covers unique topics relevant to product management, fintech, and business development.&lt;/p&gt;
+&lt;h2 id=&#34;newsletter-list&#34;&gt;Newsletter List&lt;/h2&gt;
+&lt;table&gt;
+  &lt;thead&gt;
+      &lt;tr&gt;
+          &lt;th&gt;&lt;strong&gt;Name of Newsletter&lt;/strong&gt;&lt;/th&gt;
+          &lt;th&gt;&lt;strong&gt;Where to Find&lt;/strong&gt;&lt;/th&gt;
+          &lt;th&gt;&lt;strong&gt;Topics of Discussion&lt;/strong&gt;&lt;/th&gt;
+          &lt;th&gt;&lt;/th&gt;
+      &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+      &lt;tr&gt;
+          &lt;td&gt;The Beautiful Mess&lt;/td&gt;
+          &lt;td&gt;&lt;a href=&#34;https://cutlefish.substack.com/&#34;&gt;https://cutlefish.substack.com/&lt;/a&gt;&lt;/td&gt;
+          &lt;td&gt;Product Development, Design, Team Management&lt;/td&gt;
+          &lt;td&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;Behind Product Lines&lt;/td&gt;
+          &lt;td&gt;&lt;a href=&#34;https://aatir.substack.com/&#34;&gt;https://aatir.substack.com/&lt;/a&gt;&lt;/td&gt;
+          &lt;td&gt;Product Management strategies, Product Marketing&lt;/td&gt;
+          &lt;td&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;ByteByteGo Newsletter&lt;/td&gt;
+          &lt;td&gt;&lt;a href=&#34;https://blog.bytebytego.com/&#34;&gt;https://blog.bytebytego.com/&lt;/a&gt;&lt;/td&gt;
+          &lt;td&gt;System Design, Network Architechture&lt;/td&gt;
+          &lt;td&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;Big Technology&lt;/td&gt;
+          &lt;td&gt;&lt;a href=&#34;https://www.bigtechnology.com/&#34;&gt;https://www.bigtechnology.com/&lt;/a&gt;&lt;/td&gt;
+          &lt;td&gt;Tech Disruptions&lt;/td&gt;
+          &lt;td&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;This Week in Fintech&lt;/td&gt;
+          &lt;td&gt;&lt;a href=&#34;https://www.thisweekinfintech.com/&#34;&gt;https://www.thisweekinfintech.com/&lt;/a&gt;&lt;/td&gt;
+          &lt;td&gt;Fintech Trends, Industry News&lt;/td&gt;
+          &lt;td&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+&lt;h2 id=&#34;why-i-follow-these-newsletters&#34;&gt;Why I Follow These Newsletters&lt;/h2&gt;
+&lt;h3 id=&#34;1-example-fintech-weekly&#34;&gt;1. &lt;strong&gt;Example Fintech Weekly&lt;/strong&gt;&lt;/h3&gt;
+&lt;p&gt;This newsletter offers the latest insights into the fintech world, including new innovations, market analysis, and regulatory changes. It’s an invaluable resource for understanding how fintech is evolving and how I can incorporate new trends into my product strategy.&lt;/p&gt;</description>
     </item>
     <item>
-      <title>Deep Dive into Agile vs. Waterfall Software Development Methodology</title>
-      <link>http://localhost:1313/posts/first/</link>
-      <pubDate>Sat, 14 Dec 2024 12:40:15 +0600</pubDate>
-      <guid>http://localhost:1313/posts/first/</guid>
-      <description>&lt;p&gt;In the fast-paced world of Fintech, where innovation and user experience drive success, choosing the right development methodology can make or break a project. Over the past three years, as a budding Product Manager, I have navigated the complex waters of software development, experimenting with both Agile and Waterfall methodologies. Here, I share my insights, rooted in practical experience and enriched by the wisdom of industry leaders.&lt;/p&gt;
-&lt;hr&gt;
-&lt;h2 id=&#34;understanding-the-basics&#34;&gt;&lt;strong&gt;Understanding the Basics&lt;/strong&gt;&lt;/h2&gt;
-&lt;h3 id=&#34;waterfall-the-traditional-approach&#34;&gt;&lt;strong&gt;Waterfall: The Traditional Approach&lt;/strong&gt;&lt;/h3&gt;
-&lt;p&gt;Waterfall is a sequential development methodology, characterized by distinct phases such as &lt;strong&gt;Requirements&lt;/strong&gt;, &lt;strong&gt;Design&lt;/strong&gt;, &lt;strong&gt;Implementation&lt;/strong&gt;, &lt;strong&gt;Testing&lt;/strong&gt;, and &lt;strong&gt;Maintenance&lt;/strong&gt;. Each phase must be completed before the next begins, and there’s little room for revisiting or revising earlier stages.&lt;/p&gt;</description>
+      <title>Scaling Products: The Role of Strategic Thinking in Growth</title>
+      <link>http://localhost:1313/posts/scaling/</link>
+      <pubDate>Sun, 02 Jun 2024 09:20:15 +0600</pubDate>
+      <guid>http://localhost:1313/posts/scaling/</guid>
+      <description>&lt;p&gt;As a product grows, scaling becomes one of the most challenging yet rewarding aspects of product management. A strong product strategy can guide this process. Here&amp;rsquo;s how I approach scaling products in the Fintech space:&lt;/p&gt;
+&lt;h3 id=&#34;building-for-scalability-from-day-one&#34;&gt;&lt;strong&gt;Building for Scalability from Day One&lt;/strong&gt;&lt;/h3&gt;
+&lt;p&gt;When launching a product, it&amp;rsquo;s easy to focus on immediate user needs, but I always keep scalability in mind. By working closely with engineers, I ensure that the product architecture can handle increasing user demand without compromising performance.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Why Empathy is My Best Tool</title>
+      <link>http://localhost:1313/posts/empathy/</link>
+      <pubDate>Sun, 02 Jun 2024 09:20:15 +0600</pubDate>
+      <guid>http://localhost:1313/posts/empathy/</guid>
+      <description>&lt;p&gt;As a product manager in the Fintech space, &lt;strong&gt;empathy&lt;/strong&gt; is one of the most powerful tools I’ve relied on to develop products that truly serve users. A product that isn’t designed with empathy for the user’s experience will fall short, regardless of its however many technical features. Here’s how I put empathy into practice:&lt;/p&gt;
+&lt;h3 id=&#34;user-research-the-foundation&#34;&gt;&lt;strong&gt;User Research: The Foundation&lt;/strong&gt;&lt;/h3&gt;
+&lt;p&gt;Before diving into the development of a product, I always ensure that we have a deep understanding of the &lt;strong&gt;user’s pain points&lt;/strong&gt;. This involves conducting user interviews, surveys, and gathering feedback from various touchpoints. By immersing myself in the &lt;strong&gt;user’s world&lt;/strong&gt;, I can identify what problems they are trying to solve and how to create a solution that fits seamlessly into their lives.&lt;/p&gt;</description>
     </item>
     <item>
       <title>The Art of Balancing UX and Business Acumen in Product Management</title>
@@ -35,6 +86,44 @@
       <guid>http://localhost:1313/posts/third/</guid>
       <description>&lt;p&gt;&lt;em&gt;This is more of a note than an article, a culmination of what I am learning by scouring the internet.&lt;/em&gt;&lt;/p&gt;
 &lt;p&gt;As a product manager, one of the most critical skills I&amp;rsquo;ve developed over the last year is the ability to balance &lt;strong&gt;user experience (UX)&lt;/strong&gt; with &lt;strong&gt;business acumen&lt;/strong&gt;. Both elements are crucial for building products that not only meet user needs but also drive business growth. Here’s how I approach this balance:&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Deep Dive into Agile vs. Waterfall Software Development Methodology</title>
+      <link>http://localhost:1313/posts/first/</link>
+      <pubDate>Fri, 11 Aug 2023 12:40:15 +0600</pubDate>
+      <guid>http://localhost:1313/posts/first/</guid>
+      <description>&lt;p&gt;In the fast-paced world of Fintech, where innovation and user experience drive success, choosing the right development methodology can make or break a project. Over the past three years, as a budding Product Manager, I have navigated the complex waters of software development, experimenting with both Agile and Waterfall methodologies. Here, I share my insights, rooted in practical experience and enriched by the wisdom of industry leaders.&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;understanding-the-basics&#34;&gt;&lt;strong&gt;Understanding the Basics&lt;/strong&gt;&lt;/h2&gt;
+&lt;h3 id=&#34;waterfall-the-traditional-approach&#34;&gt;&lt;strong&gt;Waterfall: The Traditional Approach&lt;/strong&gt;&lt;/h3&gt;
+&lt;p&gt;Waterfall is a sequential development methodology, characterized by distinct phases such as &lt;strong&gt;Requirements&lt;/strong&gt;, &lt;strong&gt;Design&lt;/strong&gt;, &lt;strong&gt;Implementation&lt;/strong&gt;, &lt;strong&gt;Testing&lt;/strong&gt;, and &lt;strong&gt;Maintenance&lt;/strong&gt;. Each phase must be completed before the next begins, and there’s little room for revisiting or revising earlier stages.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Challenges of Product Managers Coming from a Business Background</title>
+      <link>http://localhost:1313/posts/challenges/</link>
+      <pubDate>Wed, 19 Apr 2023 09:20:15 +0600</pubDate>
+      <guid>http://localhost:1313/posts/challenges/</guid>
+      <description>&lt;p&gt;Product management is a multidisciplinary role, requiring a blend of technical, strategic, and interpersonal skills. For product managers coming from a *&lt;em&gt;business background&lt;/em&gt; like me, the transition into this complex role can be rewarding yet challenging. While our strengths in strategy and stakeholder management are invaluable, navigating the technical aspects of the role can pose unique hurdles.&lt;/p&gt;
+&lt;p&gt;Here’s a closer look at the challenges I faced as a business-background product managers and how I overcame them.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>The Basics of APIs for Product Managers</title>
+      <link>http://localhost:1313/posts/api/</link>
+      <pubDate>Wed, 19 Apr 2023 09:20:15 +0600</pubDate>
+      <guid>http://localhost:1313/posts/api/</guid>
+      <description>&lt;h1 id=&#34;the-basics-of-apis-for-product-managers&#34;&gt;The Basics of APIs for Product Managers&lt;/h1&gt;
+&lt;p&gt;As a &lt;strong&gt;Product Manager&lt;/strong&gt; in the fintech space, understanding how APIs work is crucial to developing seamless user experiences and efficient product integrations. APIs, or &lt;strong&gt;Application Programming Interfaces&lt;/strong&gt;, are key to enabling different software systems to communicate with each other. In this article, we’ll break down the basics of APIs and why they are essential for product managers, especially in fintech.&lt;/p&gt;
+&lt;h2 id=&#34;what-is-an-api&#34;&gt;What is an API?&lt;/h2&gt;
+&lt;p&gt;An API is a set of rules and protocols that allows one software application to interact with another. It defines the methods and data formats that applications can use to request and exchange data. Essentially, APIs enable different software systems to talk to each other without needing to understand their internal workings.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Fintech and the Foundational Knowledge of Digital Financial Transactions</title>
+      <link>http://localhost:1313/posts/second/</link>
+      <pubDate>Thu, 15 Dec 2022 12:40:15 +0600</pubDate>
+      <guid>http://localhost:1313/posts/second/</guid>
+      <description>&lt;p&gt;&lt;em&gt;By a Fintech Product Manager with 3 Years of Experience in handling HIPPOs and ZEBRAs everyday.&lt;/em&gt;
+&lt;em&gt;This is more of a note than an article, a culmination of what I learned by scouring the internet. You WILL find copied material here.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;As a Product Manager in the ever-evolving Fintech space, understanding the core principles of &lt;strong&gt;digital financial transactions&lt;/strong&gt; is crucial to delivering secure, seamless, and scalable products. With the rise of mobile wallets, digital currencies, and online payment systems, the landscape of financial services is rapidly changing. However, to build products that effectively meet market demands, one must first understand the foundational knowledge behind digital financial transactions. In this article, I’ll share my insights, enriched by industry best practices and expert opinions, into the core elements that shape digital financial transactions in Fintech.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

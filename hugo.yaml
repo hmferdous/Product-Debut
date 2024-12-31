@@ -16,7 +16,7 @@ params:
       url: "https://github.com/hmferdous"
 
   cover:
-    linkFullImages: false
+    linkFullImages: true
 
   ShowBreadCrumbs: true
 
@@ -25,6 +25,16 @@ params:
   ShowShareButtons: true
 
   ShowPostNavLinks: true
+
+  showtoc: true
+  
+  UseHugoToc: false
+  
+
+
+  
+
+ 
 
 
 

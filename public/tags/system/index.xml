@@ -6,8 +6,69 @@
     <description>Recent content in System on Product Debut</description>
     <generator>Hugo -- 0.139.0</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 19 Apr 2023 09:20:15 +0600</lastBuildDate>
+    <lastBuildDate>Thu, 05 Dec 2024 10:16:15 +0600</lastBuildDate>
     <atom:link href="http://localhost:1313/tags/system/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Newsletters I Follow: My Top 5</title>
+      <link>http://localhost:1313/posts/newsletter/</link>
+      <pubDate>Thu, 05 Dec 2024 10:16:15 +0600</pubDate>
+      <guid>http://localhost:1313/posts/newsletter/</guid>
+      <description>&lt;p&gt;As a Product Manager in the fintech space, staying updated with industry trends, best practices, and the latest innovations is crucial. One of the best ways to do this is by subscribing to newsletters. Below is a list of newsletters I follow to keep my knowledge sharp and my strategies current. Each one covers unique topics relevant to product management, fintech, and business development.&lt;/p&gt;
+&lt;h2 id=&#34;newsletter-list&#34;&gt;Newsletter List&lt;/h2&gt;
+&lt;table&gt;
+  &lt;thead&gt;
+      &lt;tr&gt;
+          &lt;th&gt;&lt;strong&gt;Name of Newsletter&lt;/strong&gt;&lt;/th&gt;
+          &lt;th&gt;&lt;strong&gt;Where to Find&lt;/strong&gt;&lt;/th&gt;
+          &lt;th&gt;&lt;strong&gt;Topics of Discussion&lt;/strong&gt;&lt;/th&gt;
+          &lt;th&gt;&lt;/th&gt;
+      &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+      &lt;tr&gt;
+          &lt;td&gt;The Beautiful Mess&lt;/td&gt;
+          &lt;td&gt;&lt;a href=&#34;https://cutlefish.substack.com/&#34;&gt;https://cutlefish.substack.com/&lt;/a&gt;&lt;/td&gt;
+          &lt;td&gt;Product Development, Design, Team Management&lt;/td&gt;
+          &lt;td&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;Behind Product Lines&lt;/td&gt;
+          &lt;td&gt;&lt;a href=&#34;https://aatir.substack.com/&#34;&gt;https://aatir.substack.com/&lt;/a&gt;&lt;/td&gt;
+          &lt;td&gt;Product Management strategies, Product Marketing&lt;/td&gt;
+          &lt;td&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;ByteByteGo Newsletter&lt;/td&gt;
+          &lt;td&gt;&lt;a href=&#34;https://blog.bytebytego.com/&#34;&gt;https://blog.bytebytego.com/&lt;/a&gt;&lt;/td&gt;
+          &lt;td&gt;System Design, Network Architechture&lt;/td&gt;
+          &lt;td&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;Big Technology&lt;/td&gt;
+          &lt;td&gt;&lt;a href=&#34;https://www.bigtechnology.com/&#34;&gt;https://www.bigtechnology.com/&lt;/a&gt;&lt;/td&gt;
+          &lt;td&gt;Tech Disruptions&lt;/td&gt;
+          &lt;td&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;This Week in Fintech&lt;/td&gt;
+          &lt;td&gt;&lt;a href=&#34;https://www.thisweekinfintech.com/&#34;&gt;https://www.thisweekinfintech.com/&lt;/a&gt;&lt;/td&gt;
+          &lt;td&gt;Fintech Trends, Industry News&lt;/td&gt;
+          &lt;td&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+&lt;h2 id=&#34;why-i-follow-these-newsletters&#34;&gt;Why I Follow These Newsletters&lt;/h2&gt;
+&lt;h3 id=&#34;1-example-fintech-weekly&#34;&gt;1. &lt;strong&gt;Example Fintech Weekly&lt;/strong&gt;&lt;/h3&gt;
+&lt;p&gt;This newsletter offers the latest insights into the fintech world, including new innovations, market analysis, and regulatory changes. It’s an invaluable resource for understanding how fintech is evolving and how I can incorporate new trends into my product strategy.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Challenges of Product Managers Coming from a Business Background</title>
+      <link>http://localhost:1313/posts/challenges/</link>
+      <pubDate>Wed, 19 Apr 2023 09:20:15 +0600</pubDate>
+      <guid>http://localhost:1313/posts/challenges/</guid>
+      <description>&lt;p&gt;Product management is a multidisciplinary role, requiring a blend of technical, strategic, and interpersonal skills. For product managers coming from a *&lt;em&gt;business background&lt;/em&gt; like me, the transition into this complex role can be rewarding yet challenging. While our strengths in strategy and stakeholder management are invaluable, navigating the technical aspects of the role can pose unique hurdles.&lt;/p&gt;
+&lt;p&gt;Here’s a closer look at the challenges I faced as a business-background product managers and how I overcame them.&lt;/p&gt;</description>
+    </item>
     <item>
       <title>The Basics of APIs for Product Managers</title>
       <link>http://localhost:1313/posts/api/</link>

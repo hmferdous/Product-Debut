@@ -2,47 +2,74 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>http://localhost:1313/tags/api/</loc>
+    <lastmod>2024-12-05T10:16:15+06:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/categories/</loc>
-    <lastmod>2024-12-15T12:40:15+06:00</lastmod>
+    <lastmod>2024-12-05T10:16:15+06:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/second/</loc>
-    <lastmod>2024-12-15T12:40:15+06:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/lean/</loc>
-    <lastmod>2024-12-15T12:40:15+06:00</lastmod>
+    <loc>http://localhost:1313/posts/newsletter/</loc>
+    <lastmod>2024-12-05T10:16:15+06:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/posts/</loc>
-    <lastmod>2024-12-15T12:40:15+06:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/process/</loc>
-    <lastmod>2024-12-15T12:40:15+06:00</lastmod>
+    <lastmod>2024-12-05T10:16:15+06:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/categories/product/</loc>
-    <lastmod>2024-12-15T12:40:15+06:00</lastmod>
+    <lastmod>2024-12-05T10:16:15+06:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/</loc>
-    <lastmod>2024-12-15T12:40:15+06:00</lastmod>
+    <lastmod>2024-12-05T10:16:15+06:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/system/</loc>
+    <lastmod>2024-12-05T10:16:15+06:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/</loc>
-    <lastmod>2024-12-15T12:40:15+06:00</lastmod>
+    <lastmod>2024-12-05T10:16:15+06:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/agile/</loc>
-    <lastmod>2024-12-14T12:40:15+06:00</lastmod>
+    <loc>http://localhost:1313/tags/empathy/</loc>
+    <lastmod>2024-06-02T09:20:15+06:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/first/</loc>
-    <lastmod>2024-12-14T12:40:15+06:00</lastmod>
+    <loc>http://localhost:1313/tags/growth/</loc>
+    <lastmod>2024-06-02T09:20:15+06:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/sdlc/</loc>
-    <lastmod>2024-12-14T12:40:15+06:00</lastmod>
+    <loc>http://localhost:1313/posts/scaling/</loc>
+    <lastmod>2024-06-02T09:20:15+06:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/user/</loc>
+    <lastmod>2024-06-02T09:20:15+06:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/posts/empathy/</loc>
+    <lastmod>2024-06-02T09:20:15+06:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/posts/third/</loc>
     <lastmod>2023-09-12T14:28:15+06:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/user/</loc>
-    <lastmod>2023-09-12T14:28:15+06:00</lastmod>
-  </url><url>
     <loc>http://localhost:1313/tags/ux/</loc>
     <lastmod>2023-09-12T14:28:15+06:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/agile/</loc>
+    <lastmod>2023-08-11T12:40:15+06:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/posts/first/</loc>
+    <lastmod>2023-08-11T12:40:15+06:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/sdlc/</loc>
+    <lastmod>2023-08-11T12:40:15+06:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/posts/challenges/</loc>
+    <lastmod>2023-04-19T09:20:15+06:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/posts/api/</loc>
+    <lastmod>2023-04-19T09:20:15+06:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/posts/second/</loc>
+    <lastmod>2022-12-15T12:40:15+06:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/lean/</loc>
+    <lastmod>2022-12-15T12:40:15+06:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/process/</loc>
+    <lastmod>2022-12-15T12:40:15+06:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/covid-19/</loc>
     <lastmod>2020-09-13T12:40:15+06:00</lastmod>
